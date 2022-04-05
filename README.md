@@ -2,7 +2,7 @@
 
 A repository for entity linking experiments in the VFB domain.
 
-Uses [SciSpacy](https://github.com/allenai/scispacy) to train custom model and  
+Uses [SciSpacy](https://github.com/allenai/scispacy) to train the custom model and run entity linker.  
 
 ## Install
 
