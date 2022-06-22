@@ -1,5 +1,7 @@
 # VFB Entity Linking Experiment
 
+This repository moved to [https://github.com/VirtualFlyBrain/neuron-to-paper-nlp](https://github.com/VirtualFlyBrain/neuron-to-paper-nlp).
+
 A repository for entity linking experiments in the VFB domain.
 
 Uses [SciSpacy](https://github.com/allenai/scispacy) to train the custom model and run entity linker.  
